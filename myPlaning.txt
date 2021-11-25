@@ -1,0 +1,4 @@
+My Planing
+- Membuat sebuah portfolio complex
+- Membuat sebuah platfrom pembelajaran website
+- Membuat forum diskusi
